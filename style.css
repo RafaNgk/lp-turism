@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Alice&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0px;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: #f5f4f0;
+  border: solid #d9d9d9;
+}
+
+#page {
+  /* border: solid; */
+  width: 90%;
+  max-width: 1120px;
+  margin: 88px auto;
+}
+
+.call {
+  color: #e1624f;
+  font-size: 16px;
+  line-height: auto;
+  text-transform: uppercase;
+}
+
+.title {
+  margin-top: 8px;
+  margin-bottom: 40px;
+  font-size: 36px;
+  line-height: auto;
+  color: #1b1b1b;
+}
+
+#page #main-img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 24px;
+  border-radius: 28px;
+}
+
+#subtitle {
+  text-align: center;
+  margin: 0 2%;
+  font-size: 16px;
+  line-height: auto;
+  color: #333333;
+}
+
+#divider {
+  width: 100%;
+  height: 1px;
+  background-color: #d9d9d9;
+  margin-top: 40px;
+}
+
+.call {
+  margin-top: 64px;
+}
+
+.second-title {
+  font-size: 32px;
+  line-height: auto;
+  color: #1b1b1b;
+}
+
+#primeiro-highlight {
+  margin-top: 2px;
+  margin-bottom: 8px;
+}
+
+.content {
+  margin-bottom: 64px;
+  font-size: 16px;
+  line-height: auto;
+  color: #333333;
+}
+
+.imagem {
+  width: 100%;
+  height: 330px;
+}
+
+.imagem img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 24px;
+}
+
+#img-pq-yong {
+  object-position: bottom;
+}
+
+.titulo-destaque {
+  margin-top: 20px;
+  font-size: 28px;
+  line-height: auto;
+  color: #1b1b1b;
+}
+
+.descricao-destaque {
+  margin-top: 4px;
+  font-size: 16px;
+  line-height: auto;
+  color: #333333;
+}
+
+.chamada-lista {
+  margin-top: 43px;
+}
+
+.lista-vantagens {
+  margin-top: 40px;
+  margin-bottom: 48px;
+  font-weight: bold;
+  color: #333333;
+}
+
+.lista-vantagens {
+  margin-top: 4px;
+  margin-left: 3%;
+  color: #0c51a7;
+}
+
+.item-casais {
+  color: #591b98;
+}
+
+.item-familias {
+  color: #e5245e;
+}
+
+.item-orcamento {
+  color: #e95e10;
+}
+
+.titulo-destaque2,
+.titulo-destaque3 {
+  margin-top: 40px;
+  font-size: 28px;
+  line-height: auto;
+}
+
+#conclusion {
+  margin-top: 40px;
+  font-size: 16px;
+  line-height: auto;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  margin: 25px;
+}
